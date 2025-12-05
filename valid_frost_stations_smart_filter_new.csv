@@ -1,0 +1,8 @@
+Name,ID,Longitude,Latitude,Matched_All_Elements,Matched_Radiation_Elements,Match_Count,Selection_Reason
+SVINØY FYR,SN59800,5.268,62.3293,"air_temperature, cloud_area_fraction, surface_snow_thickness",,3,At least 3 core elements
+SMØLA - MOLDSTAD,SN65370,8.063,63.4197,"air_temperature, cloud_area_fraction, surface_snow_thickness",,3,At least 3 core elements
+SUNNDALSØRA III,SN63420,8.5473,62.6785,"air_temperature, cloud_area_fraction, surface_snow_thickness",,3,At least 3 core elements
+LINGE,SN60650,7.2173,62.288,"air_temperature, cloud_area_fraction, surface_snow_thickness",,3,At least 3 core elements
+ONA II,SN62480,6.5378,62.8585,"air_temperature, cloud_area_fraction, surface_snow_thickness",,3,At least 3 core elements
+TAFJORD,SN60500,7.4218,62.2305,"air_temperature, cloud_area_fraction, surface_snow_thickness",,3,At least 3 core elements
+VIGRA,SN60990,6.115,62.5617,"air_temperature, cloud_area_fraction, surface_snow_thickness",,3,At least 3 core elements

@@ -1,0 +1,8 @@
+Name,ID,Longitude,Latitude,Matched_Elements,Match_Count
+SVINØY FYR,SN59800,5.268,62.3293,"air_temperature, cloud_area_fraction, surface_snow_thickness",3
+SMØLA - MOLDSTAD,SN65370,8.063,63.4197,"air_temperature, cloud_area_fraction, surface_snow_thickness",3
+SUNNDALSØRA III,SN63420,8.5473,62.6785,"air_temperature, cloud_area_fraction, surface_snow_thickness",3
+LINGE,SN60650,7.2173,62.288,"air_temperature, cloud_area_fraction, surface_snow_thickness",3
+ONA II,SN62480,6.5378,62.8585,"air_temperature, cloud_area_fraction, surface_snow_thickness",3
+TAFJORD,SN60500,7.4218,62.2305,"air_temperature, cloud_area_fraction, surface_snow_thickness",3
+VIGRA,SN60990,6.115,62.5617,"air_temperature, cloud_area_fraction, surface_snow_thickness",3
