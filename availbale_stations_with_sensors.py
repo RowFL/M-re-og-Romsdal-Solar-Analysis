@@ -7,12 +7,12 @@ CLIENT_ID = 'e4dd60bf-8c28-4ddf-8b37-baff9d45f05f'
 
 # Required elements
 ELEMENTS = [
-    'global_radiation',
-    'direct_radiation',
-    'diffuse_radiation',
-    'air_temperature',
-    'surface_snow_thickness',
-    'cloud_area_fraction'
+    'radiation_global',
+    #'direct_radiation',
+    #'diffuse_radiation',
+    #'air_temperature',
+    #'surface_snow_thickness',
+    #'cloud_area_fraction'
 ]
 
 # API endpoint for stations

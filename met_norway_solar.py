@@ -20,24 +20,23 @@ CLIENT_ID = 'e4dd60bf-8c28-4ddf-8b37-baff9d45f05f'
 
 # Weather stations in Møre og Romsdal
 STATIONS = {
-    'Molde': 'SN62270',      # MOLDE LUFTHAVN
-    #'Oslo': 'SN90450',      # Oslo Blindern
-    #'Ålesund': 'SN60947',    # Ålesund lufthavn
+    'Tingvoll': 'SN64510',      # Tingvoll
+    'Brusdalen': 'SN60875',      # Brusladen
+    'SURNADAL - SYLTE' : 'SN64760', # Surnadal Sylte
+    'Linge': 'SN60650',    # Ålesund Linge
     'Vigra' : 'SN60990',    # Ålesund Vigra
-    'Kristiansund': 'SN64330' # Kristiansund lufthavn
+    #'Kristiansund': 'SN64330' # Kristiansund lufthavn
 }
 
 # Date range: Last 10 years
 END_DATE = datetime.now()
-START_DATE = END_DATE - timedelta(days=365*1)
+START_DATE = END_DATE - timedelta(days=365*5)
 
 # Weather parameters we need for solar analysis
 ELEMENTS = [
-    'global_radiation',           # Total solar radiation (W/m²)
-    'direct_radiation',           # Direct beam radiation
-    'diffuse_radiation',          # Scattered/diffuse radiation
+    'mean(surface_downwelling_shortwave_flux_in_air PT1H)',  # Global solar radiation (W/m²)
     'air_temperature',            # Temperature (°C)
-    'surface_snow_thickness',     # Snow depth (cm)
+    'mean(surface_snow_thickness PT1H)',     # Snow depth (cm)
     'cloud_area_fraction'         # Cloud cover (%)
 ]
 

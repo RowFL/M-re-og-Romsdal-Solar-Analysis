@@ -1,0 +1,14 @@
+MET NORWAY DATA DOWNLOAD SUMMARY
+======================================================================
+
+Download Date: 2025-12-09 13:10:44
+Date Range: 2015-12-12 to 2025-12-09
+Stations: 5
+Parameters: solar_radiation_w_m2, air_temperature_c, snow_depth_cm, cloud_cover_percent
+
+Files Created:
+  - tingvoll_hourly_data.csv
+  - brusdalen_hourly_data.csv
+  - surnadal_sylte_hourly_data.csv
+  - linge_hourly_data.csv
+  - vigra_hourly_data.csv
